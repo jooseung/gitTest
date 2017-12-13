@@ -4,6 +4,7 @@ int main()
 {
 	int kor, eng, math;
 	int sum = 0;
+	int  i = 123;
 
 	math = 80;
 	eng = 100;
