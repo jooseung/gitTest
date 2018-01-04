@@ -19,3 +19,6 @@ int main()
 	printf("Average : %d\n", sum/3);
 	return 0;
 }
+
+
+aaa
